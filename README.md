@@ -3,7 +3,7 @@ Skelleton for write high quality php application
 
 ![GitHub CI](https://github.com/drLev/test15052020/workflows/CI/badge.svg)
 ![Travis CI](https://api.travis-ci.org/drLev/test15052020.svg?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/drLev/test15052020/badge.svg?branch=master)](https://coveralls.io/github/otis22/php-skelleton?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/drLev/test15052020/badge.svg?branch=master)](https://coveralls.io/github/drLev/test15052020?branch=master)
 
 ## Local work
 
