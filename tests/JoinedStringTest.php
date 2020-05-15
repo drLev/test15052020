@@ -7,7 +7,7 @@ use PHPUnit\Framework\TestCase;
 
 class JoinedStringTest extends TestCase
 {
-    public function testJoinedString()
+    public function testJoinedString(): void
     {
         $result = new JoinedString(',', [1, 2, 3, 4]);
         $this->assertEquals('1,2,3,4', strval($result));

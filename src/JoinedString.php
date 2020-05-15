@@ -11,8 +11,8 @@ class JoinedString
 
     /**
      * JoinedString constructor.
-     * @param $glue
-     * @param array $pieces
+     * @param string $glue
+     * @param array<mixed> $pieces
      */
     public function __construct(string $glue, array $pieces)
     {
