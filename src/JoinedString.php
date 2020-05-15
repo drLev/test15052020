@@ -1,8 +1,6 @@
 <?php
 
-
 namespace Otis22\PhpSkelleton;
-
 
 class JoinedString
 {
@@ -24,7 +22,7 @@ class JoinedString
     /**
      * @return string
      */
-    public function __toString() : string
+    public function __toString(): string
     {
         return $this->string;
     }
